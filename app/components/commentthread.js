@@ -1,5 +1,5 @@
 import React from 'react';
-import CommentEntry from './commententry';
+import CommentEntry from './commentary';
 export default class CommentThread extends React.Component {
 render() {
 return (
